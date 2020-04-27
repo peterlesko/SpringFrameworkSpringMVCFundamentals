@@ -12,3 +12,5 @@ public class ConferenceApplication extends SpringBootServletInitializer {
 	}
 
 }
+
+//completed Registration Controller, but repeat it again
