@@ -10,7 +10,4 @@ public class ConferenceApplication extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(ConferenceApplication.class, args);
 	}
-
 }
-
-//completed Registration Controller, but repeat it again
